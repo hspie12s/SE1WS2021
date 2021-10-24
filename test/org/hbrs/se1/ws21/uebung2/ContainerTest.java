@@ -12,7 +12,7 @@ class ContainerTest {
 
     @BeforeEach
     void setUp(){
-        c = new Container();
+        c = Container.getContainerInstance();
     }
     @AfterEach
     void tearDown(){

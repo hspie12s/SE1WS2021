@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="35de59a1-8ed1-4b55-b7f2-4c20ec416cef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codesSE2021/org/hbrs/se1/ws21/uebung2/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codesSE2021/org/hbrs/se1/ws21/uebung2/Container.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws21/uebung2/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws21/uebung2/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws21/uebung3/persistence/PersistenceStrategyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws21/uebung3/persistence/PersistenceStrategyStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/org/hbrs/se1/ws21/uebung2/ContainerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/org/hbrs/se1/ws21/uebung2/ContainerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -65,25 +69,13 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.hbrs.se1.ws21.uebung3" />
       <recent name="org.hbrs.se1.ws21.uebung2" />
       <recent name="org.hbrs.se1.ws21.uebung1.control" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContainerTest.sizeTest">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerTest.addMemberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ContainerTest">
+    <configuration name="ContainerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesSE2021" />
       <extension name="coverage">
         <pattern>
@@ -93,81 +85,81 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung2" />
       <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung2.ContainerTest" />
-      <option name="METHOD_NAME" value="addMemberTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerTest.deleteMemberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesSE2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung2" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung2.ContainerTest" />
-      <option name="METHOD_NAME" value="deleteMemberTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerTest.sizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesSE2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung2" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung2.ContainerTest" />
-      <option name="METHOD_NAME" value="sizeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GermanTranslatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesSE2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung1.control.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung1.control" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung1.control.GermanTranslatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GermanTranslatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContainerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesSE2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung1.test.*" />
+          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung1.test" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung1.test.GermanTranslatorTest" />
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung3.ContainerTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerTest.functionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codesSE2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung3.ContainerTest" />
+      <option name="METHOD_NAME" value="functionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerTest.strategieMongoDBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codesSE2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung3.ContainerTest" />
+      <option name="METHOD_NAME" value="strategieMongoDBTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerTest.wrongLocationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codesSE2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hbrs.se1.ws21.uebung3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws21.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws21.uebung3.ContainerTest" />
+      <option name="METHOD_NAME" value="wrongLocationTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ContainerTest.sizeTest" />
-        <item itemvalue="JUnit.ContainerTest.deleteMemberTest" />
-        <item itemvalue="JUnit.ContainerTest.addMemberTest" />
-        <item itemvalue="JUnit.GermanTranslatorTest (1)" />
-        <item itemvalue="JUnit.GermanTranslatorTest" />
+        <item itemvalue="JUnit.ContainerTest" />
+        <item itemvalue="JUnit.ContainerTest.wrongLocationTest" />
+        <item itemvalue="JUnit.ContainerTest.functionTest" />
+        <item itemvalue="JUnit.ContainerTest.strategieMongoDBTest" />
+        <item itemvalue="JUnit.ContainerTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +176,11 @@
       <workItem from="1633767015868" duration="4882000" />
       <workItem from="1634114310806" duration="463000" />
       <workItem from="1634145000169" duration="422000" />
-      <workItem from="1634299850754" duration="7817000" />
+      <workItem from="1634299850754" duration="8350000" />
+      <workItem from="1634891871205" duration="16564000" />
+      <workItem from="1634917985386" duration="122000" />
+      <workItem from="1634918235977" duration="138000" />
+      <workItem from="1635082134157" duration="2908000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1633773795237</created>
@@ -193,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633773795237</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final Version">
+      <created>1634312120617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634312120618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final Version">
+      <created>1634312297080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634312297080</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +223,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Final Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,0 +1,71 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"35de59a1-8ed1-4b55-b7f2-4c20ec416cef\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"JUnit5 Test Class\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitSEFilterConfiguration\">\n    <file-type-list>\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\n      <filtered-out-file-type name=\"TAG\" />\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\n    </file-type-list>\n  </component>\n  <component name=\"ProjectId\" id=\"1zAyOvggqkrro7eusQnVX8tib1c\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"Downloaded.Files.Path.Enabled\" value=\"false\" />\n    <property name=\"Repository.Attach.Annotations\" value=\"false\" />\n    <property name=\"Repository.Attach.JavaDocs\" value=\"false\" />\n    <property name=\"Repository.Attach.Sources\" value=\"false\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\" value=\"JUnit5\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5\" value=\"\" />\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"org.hbrs.se1.ws21.uebung2\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/org/hbrs/se1/ws21/uebung1/control\" />\n    </key>\n    <key name=\"CreateTestDialog.Recents.Supers\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"CreateTestDialog.RecentsKey\">\n      <recent name=\"org.hbrs.se1.ws21.uebung2\" />\n      <recent name=\"org.hbrs.se1.ws21.uebung1.control\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"JUnit.ContainerTest.sizeTest\">\n    <configuration default=\"true\" type=\"ArquillianTestNG\" factoryName=\"\" nameIsGenerated=\"true\">\n      <option name=\"arquillianRunConfiguration\">\n        <value>\n          <option name=\"containerStateName\" value=\"\" />\n        </value>\n      </option>\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <properties />\n      <listeners />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ContainerTest.addMemberTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"codesSE2021\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws21.uebung2.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws21.uebung2\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws21.uebung2.ContainerTest\" />\n      <option name=\"METHOD_NAME\" value=\"addMemberTest\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ContainerTest.deleteMemberTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"codesSE2021\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws21.uebung2.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws21.uebung2\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws21.uebung2.ContainerTest\" />\n      <option name=\"METHOD_NAME\" value=\"deleteMemberTest\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ContainerTest.sizeTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"codesSE2021\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws21.uebung2.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws21.uebung2\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws21.uebung2.ContainerTest\" />\n      <option name=\"METHOD_NAME\" value=\"sizeTest\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"GermanTranslatorTest (1)\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"codesSE2021\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws21.uebung1.control.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws21.uebung1.control\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws21.uebung1.control.GermanTranslatorTest\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"GermanTranslatorTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"codesSE2021\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws21.uebung1.test.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws21.uebung1.test\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws21.uebung1.test.GermanTranslatorTest\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JUnit.ContainerTest.sizeTest\" />\n        <item itemvalue=\"JUnit.ContainerTest.deleteMemberTest\" />\n        <item itemvalue=\"JUnit.ContainerTest.addMemberTest\" />\n        <item itemvalue=\"JUnit.GermanTranslatorTest (1)\" />\n        <item itemvalue=\"JUnit.GermanTranslatorTest\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"35de59a1-8ed1-4b55-b7f2-4c20ec416cef\" name=\"Default Changelist\" comment=\"\" />\n      <created>1633605169440</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1633605169440</updated>\n      <workItem from=\"1633605176294\" duration=\"5898000\" />\n      <workItem from=\"1633766536769\" duration=\"439000\" />\n      <workItem from=\"1633767015868\" duration=\"4882000\" />\n      <workItem from=\"1634114310806\" duration=\"463000\" />\n      <workItem from=\"1634145000169\" duration=\"422000\" />\n      <workItem from=\"1634299850754\" duration=\"7817000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\n      <created>1633773795237</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1633773795237</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Initial commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initial commit\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9a9bdc706e416e0f0845499634025a5ef03f5276)
++++ b/.idea/workspace.xml	(date 1634892246282)
+@@ -70,15 +70,13 @@
+     </key>
+   </component>
+   <component name="RunManager" selected="JUnit.ContainerTest.sizeTest">
+-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
++    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+       <option name="arquillianRunConfiguration">
+         <value>
+           <option name="containerStateName" value="" />
+         </value>
+       </option>
+-      <option name="TEST_OBJECT" value="CLASS" />
+-      <properties />
+-      <listeners />
++      <option name="TEST_OBJECT" value="class" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+@@ -184,7 +182,8 @@
+       <workItem from="1633767015868" duration="4882000" />
+       <workItem from="1634114310806" duration="463000" />
+       <workItem from="1634145000169" duration="422000" />
+-      <workItem from="1634299850754" duration="7817000" />
++      <workItem from="1634299850754" duration="8350000" />
++      <workItem from="1634891871205" duration="263000" />
+     </task>
+     <task id="LOCAL-00001" summary="Initial commit">
+       <created>1633773795237</created>
+@@ -193,7 +192,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1633773795237</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Final Version">
++      <created>1634312120617</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1634312120618</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Final Version">
++      <created>1634312297080</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1634312297080</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -213,7 +226,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Initial commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
++    <MESSAGE value="Final Version" />
++    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
